@@ -1,7 +1,7 @@
 DDSearch 1.0 - Linux version
 ------------------------
 
-DDSearch 1.0 is implemented in Python3.
+DDSearch （Deep Dynamic Search） is implemented in Python3.
 
 This package includes DDSearch 1.0 Python scripts and related files for the following paper:
 
